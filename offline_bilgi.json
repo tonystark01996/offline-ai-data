@@ -1,0 +1,24 @@
+{
+  "bilgiler": [
+    {
+      "soru": "merhaba",
+      "cevap": "Merhaba! Ben internetsiz çalışan yapay zekayım."
+    },
+    {
+      "soru": "sen kimsin",
+      "cevap": "Ben GitHub'daki offline bilgi dosyasına bağlıyım."
+    },
+    {
+      "soru": "html nedir",
+      "cevap": "HTML web sayfalarının temel yapısını oluşturur."
+    },
+    {
+      "soru": "css nedir",
+      "cevap": "CSS web sayfalarının tasarımını ve görünümünü belirler."
+    },
+    {
+      "soru": "javascript nedir",
+      "cevap": "JavaScript web sitelerine etkileşim kazandırır."
+    }
+  ]
+}
