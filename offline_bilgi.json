@@ -2,7 +2,11 @@
   "bilgiler": [
     {
       "soru": "merhaba",
-      "cevap": "Merhaba! Ben internetsiz çalışan yapay zekayım."
+      "cevap": [
+        "merhaba"
+        "s"
+        "b"
+      ]
     }
   ]
 }
